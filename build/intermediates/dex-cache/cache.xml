@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\Android\Projects\WeatherForcaster\app\build\intermediates\pre-dexed\debug\gson-2.2.4_8c093a5d58476e0611c0c8d7e339a2da0e030f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\WeatherForcaster\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android\Projects\WeatherForcaster\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_5fad68813f958674bac0d8a1dbbde407f1d4d7c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\WeatherForcaster\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Android\Projects\WeatherForcaster\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_78a001ee92155a7b434d0886346035b010203258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\WeatherForcaster\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Android\Projects\WeatherForcaster\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_d6316978598ca37af1b8bbb3d9a44c9f431ce2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\WeatherForcaster\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android\Projects\WeatherForcaster\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_0bb0141c6d0e64a846989a633db1323d14351c31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\WeatherForcaster\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Android\Projects\WeatherForcaster\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_117213ae8f859e28c7e09aea046b5f252ee998b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\WeatherForcaster\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android\Projects\WeatherForcaster\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_d42343d1b06d61730859ecdc7a02520760d9ee85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Android\Projects\WeatherForcaster\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_0f6553860408c70fcbf9af741b0e3a91ead8e096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\WeatherForcaster\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\Android\Projects\WeatherForcaster\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_408ac85901a7cc42067e264a9b611abf0341106c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\WeatherForcaster\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Android\Projects\WeatherForcaster\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5f46ece1e98384c112d54d12dfad0cdea91c866c.jar" />
+    </item>
+
+</items>
