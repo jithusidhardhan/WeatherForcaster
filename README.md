@@ -2,6 +2,9 @@
 ## WeatherForcaster 
 This is an android application which shows the weather forcast for the given list of cities.
 
+![](https://cloud.githubusercontent.com/assets/28675736/26035331/14b24daa-38e8-11e7-95bd-9ceab27db34d.png)
+
+
 ## Installation
 
 Download:
