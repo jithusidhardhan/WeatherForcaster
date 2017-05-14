@@ -10,9 +10,9 @@ Download:
  Import Project by Android Studio Menu > File > Import Project...
  
  After loading project,
- Run YourApp by Android Studio Menu > Run > Run YourApp.
+ Run YourApp by Android Studio Menu > Run > Run WeatherForcaster app.
 
 ## How to use WeatherForcaster application
 
 Once the application is launched,
-Select any location from the given List. The WeatherForcaster displays 5 days weatherforcast for the selected location.
+Select any location from the given List. The WeatherForcaster shall display 5 days weatherforcast for the selected location.
